@@ -1,4 +1,12 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+i'am+Vigian+Agus+i!;" />
-</h1>
+## Vigian 
 
+<p align="left">Currently learning backend development using Java, with a focus on understanding databases, APIs, and server-side architecture.
+</p>
+
+### Languages and Tools
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+### Stat's
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inali&show_icons=true&locale=en&layout=compact" alt="inali" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inali&show_icons=true&locale=en" alt="inali" /></p>
